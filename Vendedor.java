@@ -2,7 +2,7 @@ package Aula5.Trabalho;
 
 /**
  *
- * @author raiss
+ * @author raissa
  */
 
 public class Vendedor {
